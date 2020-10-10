@@ -2,14 +2,14 @@
 <p align=center>
 <img align=center src="logo.png">
 
-Must-have computer science books with highlights and annotations.
+<h4>Must-have computer science books with highlights and annotations</h4>
+<p> Contribute now </p>
 </p>
 
 </div>
 
->NOTE: Not all the books are highlighted yet! PRs are welcome
+>NOTE: Not all the books are highlighted yet! PRs are welcome :)
 
-contribute now :zap:
 
 ## TOC
 ```
