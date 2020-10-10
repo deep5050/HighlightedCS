@@ -1,5 +1,11 @@
-# HighlightedCS
+<div align=center>
+<p align=center>
+<img align=center src="logo.png">
+
 Must-have computer science books with highlights and annotations.
+</p>
+
+</div>
 
 >NOTE: Not all the books are highlighted yet! PRs are welcome
 
