@@ -17,3 +17,5 @@ This PR contains -
 - [ ] update for an existing book with more highlights added
 - [ ] fine copy of an existing book
 - [ ] other documentation changes
+
+> Repeat the above section if it contains multiple book submissions or changes
