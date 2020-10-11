@@ -11,7 +11,9 @@
 
 >NOTE: Not all the books are highlighted yet! PRs are welcome :)
 
-<img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=deep5050.HighlightedCS" alt="Visitors">  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/deep5050/HighlightedCS">  <img alt="GitHub" src="https://img.shields.io/github/license/deep5050/HighlightedCS">
+<img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=deep5050.HighlightedCS" alt="Visitors">
+
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/deep5050/HighlightedCS">  <img alt="GitHub" src="https://img.shields.io/github/license/deep5050/HighlightedCS">
 
 ## TOC
 
