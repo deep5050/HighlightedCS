@@ -17,10 +17,10 @@
 
 ## Colour code
 
-1. blue: important information  / worth remembering / worth taking a note :blue_square:
-2. green: positive approach / high priority / correct way / pros :green_circle:
-3. pink: negative approah / less priority info than green / wrong or less effective way / warning / caution / cons :red_circle:
-4. yellow: concise information / general highlight :yellow_circle:
+1. :blue_square: important information  / worth remembering / worth taking a note 
+2. :green_circle: positive approach / high priority / correct way / pros 
+3. :red_circle: negative approah / less priority info than green / wrong or less effective way / warning / caution / cons 
+4. :yellow_circle: concise information / general highlight 
 
 
 ## TOC
