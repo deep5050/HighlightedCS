@@ -15,6 +15,14 @@
 
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/deep5050/HighlightedCS">  <img alt="GitHub" src="https://img.shields.io/github/license/deep5050/HighlightedCS">
 
+## Colour code
+
+1. blue: important information  / worth remembering / worth taking a note :blue_square:
+2. green: positive approach / high priority / correct way / pros :green_circle:
+3. pink: negative approah / less priority info than green / wrong or less effective way / warning / caution / cons :red_circle:
+4. yellow: concise information / general highlight :yellow_circle:
+
+
 ## TOC
 
 ```
@@ -46,8 +54,6 @@
 │   └── Graph theory with applications [C. Vasudev] (1).pdf
 ├── General concepts
 │   └── Computer science distilled [Wladston Ferreira Filho] (1).pdf
-├── LICENSE
-├── logo.png
 ├── Microprocessor
 │   └── 8085 microprocessors through question answers [S.K.Sen] (2).pdf
 ├── OOP
@@ -58,7 +64,6 @@
 ├── Parallel computing
 │   ├── Distributed computing [singhal].pdf
 │   └── Distributed systems principles and paradigms [tanenbaum] (2).pdf
-├── README.md
 ├── Software engineering
 │   ├── Object oriented software engineering [mc graw hill].pdf
 │   ├── Software engineering IIT khargapur [rajib mall].pdf
@@ -75,5 +80,5 @@
     ├── Wireless sensor network designs [anna Hac].pdf
     └── Wiress sensors network [Kazem Sohraby, Daniel Minoli, Taieb Znati].pdf
 
-18 directories, 38 files
+18 directories, 35 files
 ```
