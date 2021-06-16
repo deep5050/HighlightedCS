@@ -23,6 +23,9 @@
 4. :yellow_circle: concise information / general highlight 
 
 
+## Filename structure
+Title [author(s)] (edition)
+
 ## TOC
 
 ```
