@@ -17,10 +17,10 @@
 
 ## Colour code
 
-1. :blue_square: important information  / worth remembering / worth taking a note 
-2. :green_circle: positive approach / high priority / correct way / pros 
-3. :red_circle: negative approah / less priority info than green / wrong or less effective way / warning / caution / cons 
-4. :yellow_circle: concise information / general highlight 
+1. :blue_square: (blue) important information  / worth remembering / worth taking a note 
+2. :green_circle: (green) positive approach / high priority / correct way / pros 
+3. :red_circle: (red) negative approach / less priority info than green / wrong or less effective way / warning / caution / cons 
+4. :yellow_circle: (yellow) concise information / general highlight 
 
 
 ## Filename structure
@@ -53,7 +53,7 @@ Title [author(s)] (edition)
 │   └── Digital electronics [anil.k.maini] (1).pdf
 ├── Electronics
 │   └── Principles of electronics [V.K Mehta] (1).pdf
-├── Garph theory
+├── Graph theory
 │   └── Graph theory with applications [C. Vasudev] (1).pdf
 ├── General concepts
 │   └── Computer science distilled [Wladston Ferreira Filho] (1).pdf
@@ -61,7 +61,7 @@ Title [author(s)] (edition)
 │   └── 8085 microprocessors through question answers [S.K.Sen] (2).pdf
 ├── OOP
 │   ├── Object oriented programming in c++ [Robert Lafore] (4).pdf
-│   └── Oop with c++ solutoin [E balagurusamy].pdf
+│   └── Oop with c++ solution [E balagurusamy].pdf
 ├── Operating system
 │   └── Operating system A concept-based approach [Dhamdhere] (1).pdf
 ├── Parallel computing
@@ -81,7 +81,7 @@ Title [author(s)] (edition)
     ├── Fundamentals of wireless sensor networks [Waltenegus Dargie].pdf
     ├── Protocols and architectures for wireless sensor networks [karl, willing].pdf
     ├── Wireless sensor network designs [anna Hac].pdf
-    └── Wiress sensors network [Kazem Sohraby, Daniel Minoli, Taieb Znati].pdf
+    └── Wireless sensors network [Kazem Sohraby, Daniel Minoli, Taieb Znati].pdf
 
 18 directories, 35 files
 ```
