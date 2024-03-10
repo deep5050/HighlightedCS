@@ -1,0 +1,1 @@
+![cover](./images/Computer_science_distilled_[Wladston_Ferreira_Filho]_(1).png)
