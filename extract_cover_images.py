@@ -24,6 +24,18 @@ def extract_cover_pages(pdf_directory, output_directory):
 
             # Save the pixmap as a PNG file
             first_page._writeIMG(output_image_path,"jpg","90")
+            try:
+                # Open the image
+                with Image.open(output_image_path) as img:
+                    # Resize the image to a 4:3 aspect ratio
+                    resized_img = img.resize((300, 400))
+                    # resized_img = img.resize((int(img.width * 4/3), img.height))
+
+                    # Save the resized image, overwriting the original file
+                    resized_img.save(output_image_path)
+
+            except Exception as e:
+                print(f"Error processing '{filename}': {e}")
 
             # Close the PDF file
             pdf_document.close()
