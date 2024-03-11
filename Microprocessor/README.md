@@ -1,0 +1,1 @@
+![cover](./images/8085_microprocessors_through_question_answers_[S.K.Sen]_(2).png)
